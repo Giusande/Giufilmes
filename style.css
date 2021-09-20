@@ -1,0 +1,77 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-04-aluraflix-e-filmes.png");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+p {
+  color: #ffffff;
+   text-align: center;
+}
+.pixar {
+  color: #ffffff;
+  text-align: center;
+  font-size:30px;
+}
+.page-title {
+  font-size:40px;
+}
+.banner {
+ border: 5px solid 
+ #ededed;
+ box-shadow: 5px 5px 10px 1px #000; 
+  
+}
+.giugiu-logo {
+  position: absolute;
+   top: 0px;
+  right: 10px;
+  font-size: 20px;
+  border: 1px solid 
+ #ededed;
+}
+
+a {
+  color: #ffffff;
+}
+button{
+  background-color: transparent;
+  border-color: #ffffff;
+  color: #ffffff;
+  padding: 7px;
+  font-weight: bold;
+  font-size: 12pt;
+  margin-top: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  transition: all .4s ease-out;    
+  position: absolute;
+   top: 0px;
+  left: 10px;
+  font-size: 20px;
+}
+.cadastrar-botao {
+  background-color: transparent;
+  border-color: #ffffff;
+  color: #ffffff;
+  padding: 7px;
+  font-weight: bold;
+  font-size: 12pt;
+  margin-top: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  transition: all .4s ease-out;    
+  position: absolute;
+   top: 0px;
+  left: 100px;
+  font-size: 20px;
+}
