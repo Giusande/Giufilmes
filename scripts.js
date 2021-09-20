@@ -1,4 +1,4 @@
-function entrar() {
+function adicionarVitoria() {
    console.log("clicou");
 }
 
