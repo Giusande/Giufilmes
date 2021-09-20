@@ -71,7 +71,7 @@ button{
   outline: none;
   transition: all .4s ease-out;    
   position: absolute;
-   top: 30px;
+   top: 0px;
   left: 100px;
   font-size: 20px;
 }
