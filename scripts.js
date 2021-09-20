@@ -1,7 +1,11 @@
 function entrar() {
- window.location.href = 'https://cdpn.io/Giugiu1/debug/qBjxGKP/LQMExgDygwZk';
+   setTimeout(()=>{
+        window.location.href = 'https://cdpn.io/Giugiu1/debug/qBjxGKP/LQMExgDygwZk'
+    }, 3000)
 }
 
 function cadastrar() {
- window.location.href = 'https://www.youtube.com/watch?v=OilQvKjpNh0&t=357s';  
+  setTimeout(()=>{
+        window.location.href = 'https://cdpn.io/Giugiu1/debug/powamZJ/mVAbGwxDDPmk'
+    }, 3000)
 }
